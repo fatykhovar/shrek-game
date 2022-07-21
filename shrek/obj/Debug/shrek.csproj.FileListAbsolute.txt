@@ -1,0 +1,11 @@
+C:\Users\fatyk\source\repos\shrek\shrek\shrek\bin\Debug\shrek.exe.config
+C:\Users\fatyk\source\repos\shrek\shrek\shrek\bin\Debug\shrek.exe
+C:\Users\fatyk\source\repos\shrek\shrek\shrek\bin\Debug\shrek.pdb
+C:\Users\fatyk\source\repos\shrek\shrek\shrek\obj\Debug\shrek.csprojAssemblyReference.cache
+C:\Users\fatyk\source\repos\shrek\shrek\shrek\obj\Debug\shrek.Game.resources
+C:\Users\fatyk\source\repos\shrek\shrek\shrek\obj\Debug\shrek.Properties.Resources.resources
+C:\Users\fatyk\source\repos\shrek\shrek\shrek\obj\Debug\shrek.csproj.GenerateResource.cache
+C:\Users\fatyk\source\repos\shrek\shrek\shrek\obj\Debug\shrek.csproj.CoreCompileInputs.cache
+C:\Users\fatyk\source\repos\shrek\shrek\shrek\obj\Debug\shrek.exe
+C:\Users\fatyk\source\repos\shrek\shrek\shrek\obj\Debug\shrek.pdb
+C:\Users\fatyk\source\repos\shrek\shrek\shrek\obj\Debug\shrek.Intro.resources
